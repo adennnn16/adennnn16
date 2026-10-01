@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**adennnn16/adennnn16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi theree, I'm Archard Garcia
+### **Automotive & Robotics Engineer | AI/ML & Computer Vision Specialist | Product Visionary**
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Archard_Garcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/archardgarcia)
+[![Email Badge](https://img.shields.io/badge/Email-archard.garcia%40binus.ac.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archard.garcia@binus.ac.id)
+[![GCP Certified](https://img.shields.io/badge/Google_Cloud-VPC_%26_Kubernetes-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+[![Cisco Certified](https://img.shields.io/badge/Cisco-Packet_Tracer-1B72E8?style=for-the-badge&logo=cisco&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> *B.S. Automotive & Robotics Engineering Student @ **BINUS University**. Bridging high-performance hardware systems, edge Machine Learning, and user-centric software solutions.*
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔬 **AI & Computer Vision Focus:** Engineering smart vision quality control systems, ML anomaly detection, and embedded image classification.
+- ⚡ **Predictive Analytics:** Researching lithium-ion battery SOH degradation using advanced Machine Learning models (XGBoost, Random Forest) on NASA datasets.
+- 🚀 **Product Leadership & EdTech:** Led end-to-end development of early childhood mathematics & literacy learning apps at **UKM BASE CORE**.
+- 🌐 **Cloud & Network Infrastructure:** Architecting enterprise VLAN topographies and GCP cloud-native environments.
+
+---
+
+### 🛠️ Tech Stack & Capabilities
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `C/C++` `MATLAB` `SQL` |
+| **AI / Machine Learning** | `Computer Vision` `XGBoost` `Random Forest` `Embedded ML` `Signal Analytics (DSP)` |
+| **Cloud & Networking** | `Google Cloud Platform` `Kubernetes` `VPC Networking` `Cisco Packet Tracer` |
+| **Design & Prototyping** | `Figma (UI/UX)` `Ansys` `Autodesk Inventor` `Microcontrollers` |
+
+</div>
+
+---
+
+### 💡 Featured Engineering & ML Projects
